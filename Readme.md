@@ -1,6 +1,6 @@
 # ChatGPT-Python
 
-###Aplicación de consola
+### Aplicación de consola
 
 ---
 
